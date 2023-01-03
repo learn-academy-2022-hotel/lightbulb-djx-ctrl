@@ -2,8 +2,19 @@ h1 {
   text-align: center;
 }
 
-.lightbulb {
-  border: 2px solid black;
-  width: 200px;
-  height: 200px;
+h2 {
+  text-align: center;
+  text-transform: lowercase;
 }
+.lightbulb {
+  border: 10x solid black;
+    width: 250px ;
+    height: 250px ;
+    text-align: center;
+    display: center;
+    justify-content: space-around;
+    margin: auto;
+    align-items: center;
+  }
+    
+ 
